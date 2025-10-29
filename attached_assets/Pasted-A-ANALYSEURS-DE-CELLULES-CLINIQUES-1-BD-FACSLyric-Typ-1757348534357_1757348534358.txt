@@ -1,0 +1,60 @@
+A) ANALYSEURS DE CELLULES CLINIQUES
+-----------------------------------
+1. BD FACSLyric™
+   - Type : analyseur clinique hautement sensible
+   - Configurations : disponible en configurations multi-couleurs selon fiche technique
+   - Options : lasers (bleu/rouge/violet selon configuration), QC automatisé (BD CS&T beads), loader/autoloader possible.
+
+2. BD FACSDuet™ — Préparateur d'échantillons / Sample Preparation System
+   - Description : système d’automatisation pré-analytique complètement intégré (préparation d’échantillons, cocktailing, lavage, centrifugation et transfert automatique vers un cytomètre BD pour un workflow « walkaway »).
+   - Intégration : conçu pour s’intégrer physiquement avec le BD FACSLyric™ (via Universal Loader) et permettre un transfert d’échantillons prêt-à-acquérir.
+   - Logiciels / flux de données : intégration bidirectionnelle des données via BD FACSLink™ (synchronisation traçabilité échantillons / réactifs).
+   - Capacités & options : capacité importante de réactifs (plusieurs dizaines de flacons/adaptateurs — ex. jusqu’à 46 récipients selon configuration), modules pour cocktailing automatique, supports pour différents types de tubes/plaques, options d’adaptation de vials, version « Premium » avec robotique et fonctions élargies.
+   - Statut réglementaire / usage : proposé pour usage In Vitro Diagnostic (IVD) selon la page produit ; certaines fonctions « user-defined » peuvent être destinées à la recherche selon les indications du fabricant.
+   - Utilisation en formation : prévoir pack formation dédié (installation & intégration FACSDuet + FACSLyric, workflows automatisés, traçabilité et gestion réactifs).
+
+B) ANALYSEURS DE CELLULES POUR LA RECHERCHE
+-------------------------------------------
+1. BD Accuri™ C6 Plus
+   - Type : cell analyzer compact / paillasse (portable)
+   - Configuration exemple : standard 3-bleu + 1-rouge (variantes selon modèle). Idéal pour workflow enseignement / petits labo. :contentReference[oaicite:5]{index=5}
+
+2. BD FACSCelesta™
+   - Type : multicolor benchtop analyzer
+   - Options : différentes configurations lasers (4 configurations proposées), acquisition tubes/plaques, compatible BD FACSDiva software. :contentReference[oaicite:6]{index=6}
+
+3. BD LSRFortessa™ (incl. LSRFortessa X-20)
+   - Type : analyseur haut paramètre configurable
+   - Capacité : configurations jusqu’à 5 lasers et capacités multi-paramètres (ex : X-20 → jusqu’à 20 paramètres selon config)
+   - Options : détecteurs configurables, HTS option. :contentReference[oaicite:7]{index=7}
+
+4. BD FACSymphony™ (A1 / A3 / A5)
+   - Type : plateformes haute-dimension (high-parameter)
+   - Exemples : A5 → possibilité jusqu’à 9 lasers ; A3 → architecture multi-détecteurs (ex : VPX electronics, jusqu’à ~30 détecteurs)
+   - Usage : phenotyping profond et étude d’événements rares. :contentReference[oaicite:8]{index=8}
+
+5. BD FACSDiscover™ A8 (analyseur spectral + image)
+   - Type : spectral + imaging (BD SpectralFX™ + BD CellView™)
+   - Options : modes imaging / high-speed, autoloader avec contrôle temp., idéal pour analyses avancées. :contentReference[oaicite:10]{index=10}
+
+C) TRIEURS DE CELLULES POUR LA RECHERCHE (SORTERS)
+--------------------------------------------------
+1. BD FACSAria™ III
+   - Type : trieur haute sensibilité
+   - Options typiques : multi-laser, options de biosafety (enclosure), nozzles (70/85/100/130 µm), modules de collecte, software (BD FACSDiva / BD FACSChorus selon config). :contentReference[oaicite:11]{index=11}
+
+2. BD FACSAria™ Fusion
+   - Type : trieur avancé avec focus sur biosafety + performance
+   - Options : architecture orientée sécurité et tri haute performance. :contentReference[oaicite:12]{index=12}
+
+3. BD FACSMelody™
+   - Type : trieur compact / benchtop (automatisation simplifiée)
+   - Caractéristiques : interface guidée (BD FACSChorus™), automatisation et options de tri (4-way / 4 voies etc), jusqu’à ~9 couleurs selon configuration. :contentReference[oaicite:14]{index=14}
+
+4. BD FACSymphony™ S6 (trieur haut-paramètre)
+   - Type : trieur pour très haut paramétrage (ex : configurable jusqu’à 50 paramètres en mode avancé)
+   - Options : multi-parameter sorting, biosafety, collection plates/tubes, temperature control. :contentReference[oaicite:16]{index=16}
+
+5. BD FACSDiscover™ S8 (trieur spectral / image)
+   - Type : premier trieur spectral avec image-capable (BD CellView™)
+   - Caractéristiques : spectrale + imagerie en temps réel, jusqu’à 5 lasers et détecteurs d’image, options : contrôle température, collecte plates, calibration image.

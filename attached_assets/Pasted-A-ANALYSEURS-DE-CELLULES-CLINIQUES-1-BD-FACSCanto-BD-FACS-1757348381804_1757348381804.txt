@@ -1,0 +1,26 @@
+A) ANALYSEURS DE CELLULES CLINIQUES
+-----------------------------------
+1. BD FACSCanto™ / BD FACSCanto™ II
+   - Type : analyseur clinique de paillasse
+   - Options courantes : BD FACS™ Loader (autoloader / HTS pour plaques), modules HTS pour microplaques, software clinique (BD FACSCanto Clinical Software / BD FACSuite). Contrôles QC automatiques et modules d’analyse clinique.
+
+2. BD FACSLyric™
+   - Type : analyseur clinique hautement sensible
+   - Configurations : disponible en configurations multi-couleurs selon fiche technique
+   - Options : lasers (bleu/rouge/violet selon configuration), QC automatisé (BD CS&T beads), loader/autoloader possible.
+
+3. BD FACSVia™
+   - Type : solution clinique compacte (loader option disponible)
+   - Caractéristiques : pré-configuré pour standardisation clinique, options de loader et kit accessoires cliniques.
+
+4. BD FACSPresto™ (near-patient CD4 counter)
+   - Type : near-patient / portable, solution CD4 et Hb
+   - Options : cartouches jetables, station d’incubation, export USB, stockage résultats (on-board).
+
+5. BD FACSDuet™ — Préparateur d'échantillons / Sample Preparation System
+   - Description : système d’automatisation pré-analytique complètement intégré (préparation d’échantillons, cocktailing, lavage, centrifugation et transfert automatique vers un cytomètre BD pour un workflow « walkaway »).
+   - Intégration : conçu pour s’intégrer physiquement avec le BD FACSLyric™ (via Universal Loader) et permettre un transfert d’échantillons prêt-à-acquérir.
+   - Logiciels / flux de données : intégration bidirectionnelle des données via BD FACSLink™ (synchronisation traçabilité échantillons / réactifs).
+   - Capacités & options : capacité importante de réactifs (plusieurs dizaines de flacons/adaptateurs — ex. jusqu’à 46 récipients selon configuration), modules pour cocktailing automatique, supports pour différents types de tubes/plaques, options d’adaptation de vials, version « Premium » avec robotique et fonctions élargies.
+   - Statut réglementaire / usage : proposé pour usage In Vitro Diagnostic (IVD) selon la page produit ; certaines fonctions « user-defined » peuvent être destinées à la recherche selon les indications du fabricant.
+   - Utilisation en formation : prévoir pack formation dédié (installation & intégration FACSDuet + FACSLyric, workflows automatisés, traçabilité et gestion réactifs).

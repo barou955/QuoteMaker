@@ -1,0 +1,43 @@
+1. **BD FACSLyric™**
+   - **Self-Paced E-Learning**  
+     Contenu : aperçu du système (hardware, fluidique, optique, électronique), navigation du logiciel BD FACSuite™, procédure QC, démarrage/arrêt. :contentReference[oaicite:0]{index=0}
+   - **Operator Training (Instructor-Led)** — 3 jours (standard) ou +½ jour (version clinique)  
+     Inclus : principes cytométrie, fonctionnement instrument et logiciel, maintenance, compensation, acquisition/analyse, QC. :contentReference[oaicite:1]{index=1}
+
+2. **BD FACSDuet™**
+   - **Self-Paced E-Learning**  
+     Modules : présentation du système (hardware/software) + procédures de maintenance périodique. :contentReference[oaicite:2]{index=2}
+   - **Operator Training (Hands-On, sur site)**  
+     Inclut : utilisation, maintenance, dépannage, exécution de « worklists » et « cocktailing worklists » via le logiciel. :contentReference[oaicite:3]{index=3}
+   - **Formation combinée FACSLyric™ + FACSDuet™** possible via demande personnalisée. :contentReference[oaicite:4]{index=4}
+
+3. **BD Accuri™ C6 Plus**
+   - **Self-Paced E-Learning**  
+     Module d’auto-installation : unpacking, préparation fluidics, réalisation du QC. :contentReference[oaicite:5]{index=5}
+   - **Operator-Led Training** — 1 jour (présentiel, virtuel ou sur site)  
+     Contenu : principes cytométrie, acquisition multi-couleurs, maintenance, compensation, QC (CS&T Research Beads), acquisition via CSampler Plus (si applicable). :contentReference[oaicite:6]{index=6}
+
+4. **BD LSRFortessa™ (incl. X-20)**
+   - **Operator-Led Training** — environ 2 jours  
+     Couvre : principes cytométrie, fonctionnement, maintenance, troubleshooting, QC (CS&T), compensation, acquisition/analyse avec FACSDiva™, usage HTS (optionnel). :contentReference[oaicite:7]{index=7}
+
+5. **BD FACSymphony™ (A1 / A3 / A5)**
+   - **Self-Paced E-Learning**  
+     Module : présentation du logiciel BD FACSDiva™ (génération et gestion de templates). :contentReference[oaicite:8]{index=8}
+   - **Operator-Led Training** — 4 jours (en centre, virtuel ou sur site)  
+     Contenu : principes cytométrie, fonctionnement, maintenance, QC (CS&T), compensation, acquisition/analyse avec FACSDiva™, usage HTS (si option). Applicable aux modèles A1, A3, A5. :contentReference[oaicite:9]{index=9}
+
+6. **BD FACSDiscover™ A8 (Spectral + Image)**
+   - **Formation non documentée sur le site public**, à prévoir via BD FACSUniversity ou support commercial (souvent modules personnalisés sur demande).
+
+7. **BD FACSAria™ Fusion**
+   - **Formation non documentée sur le site public**, généralement disponible via BD FACSUniversity ou pack « Sorting » (Advanced Sorting), à confirmer avec BD.
+
+8. **BD FACSMelody™**
+   - **Formation non documentée sur le site public**, souvent incluse dans les programmes « trieurs opérateur » de BD.
+
+9. **BD FACSymphony™ S6 (trieur haut-paramètre)**
+   - **Formation non documentée sur le site public**, à obtenir via BD FACSUniversity ou support formation BD.
+
+10. **BD FACSDiscover™ S8 (trieur spectral / image)**
+    - **Formation non documentée sur le site public**, à vérifier avec BD pour disponibilité.
